@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vingtle&label=Profile%20views&color=0e75b6&style=flat" alt="vingtle" /> </p>
 
-- 🔭 I’m currently study at [Wild Code School](https://www.wildcodeschool.com/fr-fr/)
-
+- 🔭 https://portfolio-qu6x229z0-vananhs-projects.vercel.app
 - 📫 How to reach me **vananhle1908@gmail.com**
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, Web development, Digital/Multimedia Design**
