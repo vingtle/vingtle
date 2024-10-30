@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **React, Github, MySQL, NoSQL, Figma, Trello, Miro**
 
-- 👨‍💻 All of my projects are available at **https://github.com/vingtle**
+- 👨‍💻 All of my projects are available at **[https://github.com/vingtle](https://github.com/vingtle?tab=repositories)**
 
 - 📄 Know about my experiences **https://www.linkedin.com/in/le-van-anh-53843731/**
 
