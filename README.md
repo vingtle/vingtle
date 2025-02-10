@@ -1,18 +1,20 @@
-<h1 align="center">Hi 👋, I'm Van Anh</h1>
+<h1 align="center"> I'm Van Anh </h1>
+
 <h3 align="center">A passionate full-stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vingtle&label=Profile%20views&color=0e75b6&style=flat" alt="vingtle" /> </p>
 
-- 🔭 https://portfolio1-two-tau-78.vercel.app/
+- 🔭 myporfolio-livid-seven.vercel.app
+
 - 📫 How to reach me **vananhle1908@gmail.com**
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, Web development, Digital/Multimedia Design**
 
-- 💬 Ask me about **React, Github, MySQL, NoSQL, Figma, Trello, Miro**
+- 💬 Ask me about **React, Github, MySQL, NoSQL, Figma, Trello, Miro, Node.js, Next.js**
 
 - 👨‍💻 All of my projects are available at **[https://github.com/vingtle](https://github.com/vingtle?tab=repositories)**
 
-- 📄 Know about my experiences **https://www.linkedin.com/in/le-van-anh-53843731/**
+- 📄 Know about my experiences **https://www.linkedin.com/in/vananh-parthasarathy/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
